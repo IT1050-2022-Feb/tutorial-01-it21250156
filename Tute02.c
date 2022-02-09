@@ -19,6 +19,10 @@ Amount = 30 x 50 + (50-30) x 40 = 2300*/
 #include <stdio.h>
 
 int main() {
+  //declairing variables
+  int distance ;
+
+  // getting keyboard inputs
   
   return 0;
 }
